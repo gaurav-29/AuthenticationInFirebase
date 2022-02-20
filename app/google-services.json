@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42004536475",
+    "project_id": "authenticationdemo-a7c25",
+    "storage_bucket": "authenticationdemo-a7c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42004536475:android:e24f68209d77ebd9383a3e",
+        "android_client_info": {
+          "package_name": "com.oceanmtech.authenticationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42004536475-i0qeoghuv58iimenk5au9u9s0tlt62fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAB1itL2Vo_Yxcg4kEB1ommemEmZdocp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42004536475-i0qeoghuv58iimenk5au9u9s0tlt62fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
